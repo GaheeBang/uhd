@@ -43,3 +43,7 @@ out/
 .class
 .properties
 
+/build.gradle
+/gradlew
+/gradlew.bat
+/settings.gradle
